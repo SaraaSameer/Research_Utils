@@ -1,0 +1,3 @@
+Conda create -n testenv python=3.8
+Conda activate testenv
+pip install torch numpy
